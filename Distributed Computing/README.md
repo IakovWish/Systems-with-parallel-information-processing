@@ -1,0 +1,1 @@
+Generate a vector of numbers in each of N processes. The dimension of the vector is M. Perform element-by-element processing of all vectors and place the resulting vector in some process. In work, use MPI tools to organize distributed computing
