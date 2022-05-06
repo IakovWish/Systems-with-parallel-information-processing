@@ -1,0 +1,1 @@
+Send a vector, dimensions M, N to processes using various types of communication between processes. Vector elements are set arbitrarily. The vector elements of the forwarded and received vectors, as well as the execution time, must be displayed on the screen.
